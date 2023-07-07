@@ -1,1 +1,2 @@
 Este é um arquivo teste de como funciona o versionamento do Git.
+Teste de edição de arquivo na branch ramo1
